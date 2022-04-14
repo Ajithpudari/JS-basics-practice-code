@@ -1,0 +1,35 @@
+let num1 = 12345
+console.log(num1)
+let user = 'ajith'
+console.log (typeof user)
+console.log (user)
+
+let num = 7.8
+console.log(num)
+
+let hex = 0xff
+console.log(hex)
+
+let num3 = 123456787654332112344455n
+console.log(num3) 
+ let num4 = 1234567899876543211234n
+ console.log(num3 + num4)
+
+
+ let firstName = "ajith"
+ let lastName = "pudari"
+ let user1 = firstName + lastName
+
+
+ let bool = 10 < 5
+ console.log(bool)
+ let bool1 = 10 > 5
+ console.log(bool1)
+ let bool2 = 10 == 10
+ console.log(bool2)
+ let bool3 = 10 <= 10
+ console.log(bool3)
+ let bool4 = 10 >= 5
+ console.log(bool4)
+ 
+ 
